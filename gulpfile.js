@@ -4,12 +4,12 @@ const gulp = require("gulp");
 const webpack = require("webpack-stream");
 const browsersync = require("browser-sync");
 
-const dist = "./dist/";
+const dist = "./dist/"; // в эту папку всё компилируется
 
 gulp.task("copy-html", () => {
-    return gulp.src("./src/index.html")
-                .pipe(gulp.dest(dist))
-                .pipe(browsersync.stream());
+    return gulp.src("./src/index.html") // где находится файл
+                .pipe(gulp.dest(dist)) // куда помещаем его
+                .pipe(browsersync.stream()); // перезагрузка страницы при изменениях
 });
 
 gulp.task("build-js", () => {

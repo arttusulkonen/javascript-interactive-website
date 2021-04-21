@@ -1,0 +1,1 @@
+import './slider'import modals from './modules/modals'// тут указываем, что при загрузке страницы, будет происходить загрузка всех функцийwindow.addEventListener('DOMContentLoaded', () => {  modals();})
