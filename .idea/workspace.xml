@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0cc3837-d49d-4a93-9a8f-e38e1ff58f24" name="Default Changelist" comment="Create project structure">
+      <change afterPath="$PROJECT_DIR$/src/js/modules/tabs.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/script.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/js/modules/modals.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/modules/modals.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +65,8 @@
       <option name="presentableId" value="Default" />
       <updated>1619005058615</updated>
       <workItem from="1619005060530" duration="1017000" />
-      <workItem from="1619006159602" duration="3099000" />
+      <workItem from="1619006159602" duration="3193000" />
+      <workItem from="1619080824468" duration="4522000" />
     </task>
     <servers />
   </component>
