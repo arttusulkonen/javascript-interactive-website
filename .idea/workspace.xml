@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b0cc3837-d49d-4a93-9a8f-e38e1ff58f24" name="Default Changelist" comment="Create project structure">
-      <change afterPath="$PROJECT_DIR$/src/js/modules/tabs.js" afterDir="false" />
+    <list default="true" id="b0cc3837-d49d-4a93-9a8f-e38e1ff58f24" name="Default Changelist" comment="add function for tabs">
+      <change afterPath="$PROJECT_DIR$/src/js/modules/forms.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/script.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script.js.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/modules/modals.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/modules/modals.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/modules/tabs.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/modules/tabs.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,8 +66,17 @@
       <updated>1619005058615</updated>
       <workItem from="1619005060530" duration="1017000" />
       <workItem from="1619006159602" duration="3193000" />
-      <workItem from="1619080824468" duration="4522000" />
+      <workItem from="1619080824468" duration="8518000" />
+      <workItem from="1619170663379" duration="1251000" />
     </task>
+    <task id="LOCAL-00001" summary="add function for tabs">
+      <created>1619086599589</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1619086599589</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,5 +105,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add function for tabs" />
+    <option name="LAST_COMMIT_MESSAGE" value="add function for tabs" />
   </component>
 </project>
